@@ -1,0 +1,10 @@
+Welcome to Quality Food Restaurant
+Receipt
+--------------------
+Momo x20: Rs2800
+--------------------
+Total before discount: Rs2800.0
+Discount: -Rs560.0
+VAT (13%): Rs291.2
+--------------------
+Total to pay: Rs2531.2
